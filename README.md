@@ -22,7 +22,7 @@ A modern React application to discover recipes from all around the world. Simply
 
 ## 🚀 Live Demo
 
-[![View Live on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://food-recipe-app.vercel.app)
+[![View Live on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://food-recipe-nbwx.vercel.app/)
 
 ---
 
